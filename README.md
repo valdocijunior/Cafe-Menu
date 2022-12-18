@@ -1,5 +1,3 @@
-You can click [here!](https://valdocijunior.github.io/Cafe-Menu/) and access the full project!
-
 #100DaysOfCoding
 
 #Dia 2
